@@ -11,6 +11,7 @@ class HomeView extends GetView<HomeController> {
       appBar: AppBar(
         title: Text('HomeView'),
         centerTitle: true,
+        // koe bajingan
       ),
       body: Center(
         child: Text(
